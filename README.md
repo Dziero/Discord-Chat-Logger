@@ -5,7 +5,9 @@ Replace "CLIENT_TOKEN" with Account Token
 <details>
   <summary>How to get Account Token</summary>
   Paste it to console 
+  
   ```javascript
+  
 window.webpackChunkdiscord_app.push([
   [Math.random()],
   {},
